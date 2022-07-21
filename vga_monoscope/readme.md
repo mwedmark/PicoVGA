@@ -89,4 +89,4 @@ extern const u8 Monoscope640x480 [175304] __attribute__ ((aligned(4)));
 
 - Goto folder ..\PicoVGA\vga_monoscope and execute build by typing C and Enter! Make sure eveything works and a new program.uf2 file is created.
 - Reboot your Pico and copy the file: PicoVGA\vga_monoscope\program.uf2 onto your Pico via Windows Explorer
-- The Pico will reboot. Just make sure to reconnect Putty via the serial port to Pico and choose the correct resolution that you've changed! You should now see your new cusotm picture betgin shown on-screen! Congrats!
+- The Pico will reboot. Just make sure to reconnect Putty via the serial port to Pico and choose the correct resolution that you've changed! You should now see your new custom picture being shown on-screen! Congrats!
